@@ -1,3 +1,5 @@
+//Program to check whether the given character is alphabet, digit or special character.
+
 import java.util.Scanner;
 
 public class CharTypeCheck {

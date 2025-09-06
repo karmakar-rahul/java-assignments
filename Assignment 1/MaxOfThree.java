@@ -1,3 +1,5 @@
+//Program to find maximum of three numbers.
+
 import java.util.Scanner;
 
 public class MaxOfThree{

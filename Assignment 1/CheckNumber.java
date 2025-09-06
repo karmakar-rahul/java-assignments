@@ -1,3 +1,5 @@
+//Program to check if the number is positive, negative or zero.
+
 import java.util.Scanner;
 
 public class CheckNumber {

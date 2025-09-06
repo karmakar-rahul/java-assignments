@@ -1,3 +1,5 @@
+//Program to check whether the word is vowel or not.
+
 import java.util.Scanner;
 
 public class VowelConsonant {

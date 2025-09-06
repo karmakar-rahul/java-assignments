@@ -1,3 +1,5 @@
+//Program to count total number of notes in a given amount of money.
+
 import java.util.Scanner;
 
 public class CountNotes {

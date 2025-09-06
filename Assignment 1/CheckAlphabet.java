@@ -1,3 +1,5 @@
+//Program to check whether the character is alphabet or not.
+
 import java.util.Scanner;
 
 public class CheckAlphabet {

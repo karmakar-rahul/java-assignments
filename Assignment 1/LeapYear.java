@@ -1,3 +1,5 @@
+//Program to find whether the given year is leap year or not.
+
 import java.util.Scanner;
 
 public class LeapYear {
